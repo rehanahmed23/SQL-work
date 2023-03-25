@@ -1,8 +1,8 @@
 # SQL-Project-on-Retail-Transactions
 
 * Title :-        Retail Transactions
-* Created by :-   Hardi Jain & Vinit Sangoi
-* Date :-         20-09-2022
+* Created by :-   Rehan Ahmed
+* Date :-         24-03-2023
 * Tool used:-     PostgreSQL
 
 
