@@ -7,7 +7,8 @@
 Description :- 
 		• This is a Retail Transations SQL Project. This database contains 1 tables retail.
 		• Retail table has 9000 rows.
-		• In this project, Hardi Jain & Vinit Sangoi worked together.
+		• In this project, I have obtained the dataset from Mavel Analytics and used the sql queries learned from by College courses.
+
 		
 Approach :- 
 		• Understanding the dataset
